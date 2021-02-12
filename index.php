@@ -20,7 +20,7 @@ if(isset($_POST['update'])){
 <body>
     <?php 
     
-   if(isset($_GET['fails'])) {
+   if(isset($_GET['erro'])) {
 
         $error = $_GET['error'];
 
