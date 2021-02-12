@@ -1,9 +1,8 @@
-<?php 
+xx<?php 
 
 include_once './logica.php';
 
 if(isset($_POST['update'])){
-
   $_SESSION['tareas'][$_POST['key_temp']] = $_POST['tarea'];
 }
 
