@@ -72,8 +72,7 @@ if(isset($_POST['update'])){
         $bloqueEditar
 
         $tarea</li>";
-    }
-    
+    }    
     ?>
     </ul>
 </body>
